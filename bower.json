@@ -1,0 +1,22 @@
+{
+  "name": "angular-material-tips",
+  "homepage": "https://github.com/evagithub/angular-material-tips",
+  "authors": [
+    "evagithub <evadraganova@gmail.com>"
+  ],
+  "description": "sample app to test angular material and typescript",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.7"
+  }
+}
